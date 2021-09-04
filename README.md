@@ -40,15 +40,13 @@ Questions and answers posted by other users appear in this section. Here, the us
 
 A user can add an answer to an existing question by clicking on "Add Answer" next to it, or add a new question buy clicking "Add a Question" at the bottom of a list.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5rKzWHJcq3nSDmBYrQ/giphy.gif?cid=790b761108fab8b8f8334720d71e1add62c7684e632f29d6&rid=giphy.gif&ct=g" ><br>
-</p>
-
 Inappropriate questions or answers can be reported by their respective report buttons, which marks them for review and no longer renders them to the page on page refresh. Each question and answer also has a helpful button that updates their respective helpfulness score by one when clicked.
 
 By default, four questions with two questions each appears on page load. The button "More Answered Questions" switches the list to an infinite scroll that will fetch new questions as the user scrolls down until none remain for that product. The button "Load More Answers" under each answer list expands to show every posted answer to each question.
 
 The search bar at the top of this section allows the user to search existing questions. The search activates once three or more characters have been typed. The list automatically switches to infinite scroll mode during the search so all questions have the potential to appear.
+
+![questions 2](https://user-images.githubusercontent.com/84158570/132109571-dd4fe6f2-55dc-4091-bae8-910cb279fb5e.gif)
 
 ### Ratings and Reviews
 The ratings and reviews section allows the user to view and submit reviews for the given product.

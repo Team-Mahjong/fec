@@ -24,7 +24,11 @@ Product overview consists of two components, which are main image gallery and pr
 
 The gallery will display the current selected thumbnail, and the users are allowed to click a backwards and forward button to view the next or previous product image that is specific to the selected style. Users can click the main image to enter into an expanded view, and click the image again to view the image with a 2.5X zoom. The button that on the top right corner of the gallery can either bring users to the expanded view or back to the default view.
 
-To the side is the product detail information, which lists the current selected product's name, category, average ratings, and number of reviews. Clicking reviews will take users to the ratings and reviews widget of the page. The product price is based on the currently selected style. If the product is on sale, the sale price will appear in red, followed by the original price which is struckthrough. The styles that are available to the product are displayed as thumbnails for users to toggle between. Once the selected style changes, the main gallery, style name and product price updates. Below the style selector, users can select product size and quantity with two dropdown lists. An "Add to Cart" button will save the selected product to the cart. Users are also able to add the current product to their outfit list (described below) by clicking a heart icon.J
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/84158570/132110468-47726f45-d15b-4b31-958e-b383a28123a0.gif)
+
+To the side is the product detail information, which lists the current selected product's name, category, average ratings, and number of reviews. Clicking reviews will take users to the ratings and reviews widget of the page. The product price is based on the currently selected style. If the product is on sale, the sale price will appear in red, followed by the original price which is struckthrough. The styles that are available to the product are displayed as thumbnails for users to toggle between. Once the selected style changes, the main gallery, style name and product price updates. Below the style selector, users can select product size and quantity with two dropdown lists. An "Add to Cart" button will save the selected product to the cart. Users are also able to add the current product to their outfit list (described below) by clicking a heart icon.
+
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/84158570/132110500-a3bbb4e3-4c24-47cf-9d24-c2bf815838c5.gif)
 
 ### Related and Outfit
 
@@ -32,10 +36,11 @@ Two carousels appear under the product overview section. The first lists product
 
 In the related products carousel, each card has a star icon positioned in the top right, which, on click, will open a comparison popup window, comparing the features of the current page's product, and those of the related item. In the outfit carousel, the same popup window will appear upon clicking a "Compare" button at the bottom of the card.
 
-The user can add items to the outfit list either by clicking the heart icon (described above in the overview section), or by clicking the "Add to Outfit" card, which displays by default as the first card in the list. To remove items from the outfit, a user clicks on the X button positioned in the top right of the card.
-
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/84158570/132109689-9052b1ec-0bee-43cc-a694-0609c198df22.gif)
 
+The user can add items to the outfit list either by clicking the heart icon (described above in the overview section), or by clicking the "Add to Outfit" card, which displays by default as the first card in the list. To remove items from the outfit, a user clicks on the X button positioned in the top right of the card.
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/84158570/132110441-f4a745af-d3fc-4631-8e20-1d4da605bab9.gif)
 
 ### Questions and Answers
 
@@ -44,7 +49,6 @@ Questions and answers posted by other users appear in this section. Here, the us
 A user can add an answer to an existing question by clicking on "Add Answer" next to it, or add a new question buy clicking "Add a Question" at the bottom of a list.
 
 ![questions 1](https://user-images.githubusercontent.com/84158570/132110094-cfd45644-09aa-40d4-aa80-aca59e053ebe.gif)
-
 
 Inappropriate questions or answers can be reported by their respective report buttons, which marks them for review and no longer renders them to the page on page refresh. Each question and answer also has a helpful button that updates their respective helpfulness score by one when clicked.
 

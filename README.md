@@ -56,6 +56,8 @@ The overall rating is displayed to the left of the review list. All the review r
 The product breakdown, located under the ratings breakdown, displays ratings for each characteristic, such as fit, length, quality, and so on.
 
 The user can add a review for the given product by clicking the "add new review" button located under the review list.
+![ratings reviews](https://user-images.githubusercontent.com/25859716/132108636-180210fe-6c53-4631-bd60-fe1a2060c5d7.gif)
+
 
 ## Atelier API
 [Documentation](https://gist.github.com/trentgoing/d69849d6c16b82d279ffc4ecd127f49f)

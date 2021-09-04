@@ -43,6 +43,9 @@ Questions and answers posted by other users appear in this section. Here, the us
 
 A user can add an answer to an existing question by clicking on "Add Answer" next to it, or add a new question buy clicking "Add a Question" at the bottom of a list.
 
+![questions 1](https://user-images.githubusercontent.com/84158570/132110094-cfd45644-09aa-40d4-aa80-aca59e053ebe.gif)
+
+
 Inappropriate questions or answers can be reported by their respective report buttons, which marks them for review and no longer renders them to the page on page refresh. Each question and answer also has a helpful button that updates their respective helpfulness score by one when clicked.
 
 By default, four questions with two questions each appears on page load. The button "More Answered Questions" switches the list to an infinite scroll that will fetch new questions as the user scrolls down until none remain for that product. The button "Load More Answers" under each answer list expands to show every posted answer to each question.

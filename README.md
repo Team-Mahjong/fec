@@ -34,6 +34,9 @@ In the related products carousel, each card has a star icon positioned in the to
 
 The user can add items to the outfit list either by clicking the heart icon (described above in the overview section), or by clicking the "Add to Outfit" card, which displays by default as the first card in the list. To remove items from the outfit, a user clicks on the X button positioned in the top right of the card.
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/84158570/132109689-9052b1ec-0bee-43cc-a694-0609c198df22.gif)
+
+
 ### Questions and Answers
 
 Questions and answers posted by other users appear in this section. Here, the user can see a list of questions and an answer list for each.
